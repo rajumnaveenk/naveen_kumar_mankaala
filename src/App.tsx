@@ -211,14 +211,12 @@ function App() {
               <a className="button button-ghost" href="#contact">Let&apos;s connect <MoveRight size={17} /></a>
             </div>
             <div className="hero-proof">
-              <span><strong>12+</strong> years experience</span>
+              <span><strong>11+</strong> years experience</span>
               <span><strong>AEM</strong> specialist</span>
               <span><strong>WCAG</strong> focused</span>
             </div>
           </div>
           <div className="hero-visual reveal reveal-delay">
-            <div className="orb orb-one" />
-            <div className="orb orb-two" />
             <div className="portrait-card">
               <img className="portrait-image" src="/Naveen_kumar_M.jpeg" alt="Naveen Kumar Mankaala" />
               <div className="portrait-caption"><span>Based in Hyderabad</span><MapPin size={15} /></div>
