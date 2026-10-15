@@ -212,17 +212,14 @@ function App() {
             </div>
             <div className="hero-proof">
               <span><strong>11+</strong> years experience</span>
-              <span><strong>AEM</strong> specialist</span>
+              <span><strong>AEM</strong> DIGITAL EXPERIENCE DEVELOPER</span>
               <span><strong>WCAG</strong> focused</span>
             </div>
           </div>
           <div className="hero-visual reveal reveal-delay">
             <div className="portrait-card">
-              <img className="portrait-image" src="/Naveen_kumar_M.jpeg" alt="Naveen Kumar Mankaala" />
-              <div className="portrait-caption"><span>Based in Hyderabad</span><MapPin size={15} /></div>
+              <img className="portrait-image" src="dist\assets\Naveen_kumar_M.jpeg" alt="Naveen Kumar Mankaala" />
             </div>
-            <div className="floating-note note-top"><Sparkles size={15} /><span>Crafting with purpose</span></div>
-            <div className="floating-note note-bottom"><CheckCircle2 size={16} /><span>Accessibility advocate</span></div>
           </div>
         </section>
 
